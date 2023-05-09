@@ -1,4 +1,8 @@
 .auth {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
     text-align: center;
 }
 
@@ -6,9 +10,10 @@
     width: 200px;
     height: 50px;
     border: none;
-    background-color: #3b5998;
+    background-color: #7600e4;
     color: white;
     border-radius: 8px;
     font-size: 18px;
     cursor: pointer;
+    margin-bottom: 40px;
 }

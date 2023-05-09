@@ -49,6 +49,7 @@ function ChatApp() {
           <div className="mid">
 
           <input 
+          className="enter-chat"
           placeholder="Type Code.."
           onChange={(e) => setRoom(e.target.value)} />
           

@@ -46,6 +46,17 @@ body{
   /* text-align: center; */
   margin: 5px;
 }
+.enter-chat{
+
+    /* flex: 1; */
+    outline: none;
+    background: rgba(128, 0, 128, 0.205);
+    /* font-size: 16px; */
+    color: #ffffff;
+    /* padding: 10px; */
+    /* border-radius: 5px 0 0 5px; */
+    border-bottom: 2px solid white;
+}
 .room button {
   width: 210px;
   height: 40px;
